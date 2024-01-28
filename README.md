@@ -20,8 +20,8 @@ python main.py
 
 ## Features
 
-[x] Reddit Scraper
-[x] TTS-Support *to be implemented*
+- [x] Reddit Scraper 
+- [x] TTS-Support *to be implemented*
 
 ## Contributing
 
