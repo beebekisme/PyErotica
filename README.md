@@ -21,7 +21,7 @@ python main.py
 ## Features
 
 - [x] Reddit Scraper 
-- [x] TTS-Support *to be implemented*
+- [] TTS-Support *to be implemented*
 
 ## Contributing
 
